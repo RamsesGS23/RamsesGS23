@@ -1,5 +1,5 @@
 Hola, mi nombre es Ramses García 👋
-### Ingeniero Industrial y de Sistemas & Futuro Frontend Developer
+### Ingeniero Industrial y de Sistemas
 
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
